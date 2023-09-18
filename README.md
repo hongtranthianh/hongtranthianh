@@ -9,4 +9,4 @@ Hi! My name is Hong.
   
 - ⚡ If you have any idea that I can collaborate with, I am happy to connect!
   
-- 💬 Connect with me on: [Linkedin]('https://www.linkedin.com/in/hongtranthianh/')
+- 💬 Connect with me on: [Linkedin](https://www.linkedin.com/in/hongtranthianh/)
