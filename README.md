@@ -7,6 +7,6 @@ Hi👋 My name is Hong.
   
 - 🌱 My technical experience includes programming language (SQL, Python), working with large dataset (Pyspark), visualization with PowerBI and Apache Superset, using MS Excel for data analysis.
   
-- ⚡ If you have any idea that I can collaborate with, I am happy to connect!
-  
-- 💬 Connect with me on: [Linkedin](https://www.linkedin.com/in/hongtranthianh/)
+- ⚡ If you have any idea that I can collaborate with, let's connect!
+ <!-- 
+- 💬 Connect with me on: [Linkedin](https://www.linkedin.com/in/hongtranthianh/)-->
