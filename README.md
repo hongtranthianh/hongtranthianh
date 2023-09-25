@@ -1,4 +1,4 @@
-### A little bit of everything 
+### About me
 
 Hi👋 My name is Hong.
 - 🔭 I’m a data analyst interested in data science and machine learning.
